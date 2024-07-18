@@ -1,0 +1,638 @@
+{
+  "website": {
+    "logo": "logo.jpg",
+    "title": "Umar <span class='text-primary'>Waqas</span>"
+  },
+  "basics": {
+    "name": "Umar Waqas",
+    "fullname": "Umar Waqas",
+    "image": "Web-Developer-in-Lahore.jpg",
+    "label": "WordPress Developer | Senior PHP Developer | CodeIgniter Developer | Laravel Developer",
+    "experience": "10",
+    "project": "200",
+    "client": "50",
+    "email": "info@umarwaqas.com",
+    "phone": "+92 323 4462168",
+    "website": "www.umarwaqas.com",
+    "summary": "I develop and maintain web applications using WordPress, CodeIgniter, Laravel, and other technologies. I have 10 years of experience in web development and a Master's degree in Computer Science. I am passionate about creating engaging and interactive websites that meet the needs and expectations of the clients and the users.",
+    "location": {
+      "address": "Bund Road",
+      "postalCode": "54000",
+      "city": "Lahore",
+      "countryCode": "+92",
+      "region": "Pakistan",
+      "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d217759.99380853778!2d74.3343893!3d31.482940349999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190483e58107d9%3A0xc23abe6ccc7e2462!2sLahore%2C%20Punjab!5e0!3m2!1sen!2s!4v1721213745516!5m2!1sen!2s"
+    },
+    "socials": [
+      {
+        "name": "LinkedIn",
+        "icon": "linkedIn",
+        "image": "https://img.icons8.com/?size=100&id=13930&format=png&color=000000",
+        "link": "https://www.linkedin.com/in/umar-waqas/",
+        "color": "#553b08"
+      },
+      {
+        "name": "Facebook",
+        "icon": "facebook",
+        "image": "https://img.icons8.com/?size=100&id=13912&format=png&color=000000",
+        "link": "https://www.facebook.com/umarwaqas88/",
+        "color": "#0077B5"
+      }
+    ],
+    "roles": [
+      "Software Engineer",
+      "Bug Producer",
+      "Open source contributor",
+      "Coffee lover"
+    ]
+  },
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "icon": "linkedIn",
+      "image": "https://img.icons8.com/?size=100&id=13930&format=png&color=000000",
+      "link": "https://www.linkedin.com/shareArticle?mini=true&url=",
+      "color": "#553b08"
+    },
+    {
+      "name": "Facebook",
+      "icon": "facebook",
+      "image": "https://img.icons8.com/?size=100&id=13912&format=png&color=000000",
+      "link": "http://www.facebook.com/sharer/sharer.php?u=",
+      "color": "#0077B5"
+    },
+    {
+      "name": "Twitter",
+      "icon": "twitter",
+      "image": "https://img.icons8.com/?size=100&id=60469&format=png&color=000000",
+      "link": "http://www.twitter.com/intent/tweet?url=",
+      "color": "#0077B5"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "image": "https://img.icons8.com/?size=100&id=32323&format=png&color=000000",
+      "link": "https://www.instagram.com/shareArticle/?mini=true&url=",
+      "color": "#0077B5"
+    }
+  ],
+  "work": [
+    {
+      "company": "OutsourceNZ",
+      "position": "Senior PHP Developer | WordPress Developer",
+      "logo": "https://media.licdn.com/dms/image/C4D0BAQH0xYnbQaLbFg/company-logo_100_100/0/1655333288009/outsourcenz_logo?e=1728518400&v=beta&t=9nUt9oVqWwDNuAKDVF-feNPPEcYh9aavsNWBtCrbdW8",
+      "website": "",
+      "startDate": "2022-04-01",
+      "summary": "Responsibilities:  •\tDeveloping themes and plugins for WordPress requires a good understanding of the WordPress coding standards, as well as how to use the WordPress API to interact with the core functionality of the CMS. •\tA step form is a type of form that guides the user through a series of steps or pages, typically to gather information or input from the user. Step forms can be useful in a variety of contexts, such as e-commerce checkout processes, account creation forms, or survey forms. •\tIntegrating a third-party API into a WordPress theme typically involves using the API's documentation to learn how to send and receive data to and from the API, and then writing custom code in PHP or JavaScript to interact with the API from within the WordPress site. Radio and product APIs can be used to provide streaming audio or video content, or to integrate product catalogs or inventory information into an e-commerce site. •\tImporting products from a third-party API into WooCommerce typically involves using the API's documentation to learn how to access and retrieve the necessary product data, and then writing custom code in PHP to create and update the products in the WooCommerce database. •\tA Loan Calculator plugin in WordPress would typically be used to help users calculate a loan, such as the interest rate, repayment schedule, and total amount owed. Developing a loan plugin in WordPress would require a strong understanding of PHP and mathematics. •\tModifying WooCommerce to fulfill the client's requirements typically involves writing custom code in PHP to add or modify existing functionality, as well as working with the site's design and layout to ensure that the changes are visually appealing and effective.",
+      "highlights": [],
+      "endDate": "2023-12-01"
+    },
+    {
+      "company": "Inovedia Technologies",
+      "position": "Senior PHP Developer | WordPress Developer",
+      "logo": "https://media.licdn.com/dms/image/C560BAQGser-efMHIww/company-logo_100_100/0/1631324670445?e=1728518400&v=beta&t=-17hCEsA3GNhwv5NwkenCRPk5xCHHrrlco575DiqnmM",
+      "website": "",
+      "startDate": "2021-03-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2022-04-01"
+    },
+    {
+      "company": "Rays Globals",
+      "position": "Senior PHP Developer | WordPress Developer",
+      "logo": "https://media.licdn.com/dms/image/C4E0BAQFcl4UoH7yk4w/company-logo_100_100/0/1647374879984?e=1728518400&v=beta&t=kDDKbSWrvDle8nFx36TPWeeeRWMJ5TEfjXlLE7K43dw",
+      "website": "",
+      "startDate": "2018-05-01",
+      "summary": "Responsibilities: •\tThis involves planning and designing the overall structure and layout of a website, including the pages, menus, content, and user experience. •\tThis involves building a website that allows users to search for and book hotels, flights, tours, and activities, using both WordPress and CodeIgniter to create the front-end and back-end functionality. •\tThis involves building a news website that provides timely and relevant news and information to its audience, using CodeIgniter to manage the content, user accounts, and administrative functions. •\tThis involves using WordPress to create an online store, including features such as product listings, shopping carts, payment processing, and order management. •\tThis involves customizing a WordPress theme to meet the client's branding, design, and functionality requirements, using HTML, CSS, and PHP code. •\tThis involves using CodeIgniter and Laravel, two popular PHP frameworks, to build websites and web applications, including features such as databases, user authentication, and dynamic content. •\tThis involves designing and coding custom HTML email templates for newsletters and other email communications, using tools such as Adobe Photoshop and Dreamweaver.",
+      "highlights": [],
+      "endDate": "2022-05-01"
+    },
+    {
+      "company": "Fast Link Solution",
+      "position": "Senior Web Developer | CodeIgniter Developer",
+      "logo": "https://dummyimage.com/100x100/990/fff&text=FLS",
+      "website": "",
+      "startDate": "2014-08-01",
+      "summary": "Responsibilities: •\tMaintained the current website and added more features •\tUpdated website content on a daily basis •\tRedesigned sections of the website to ensure a more attractive and user friendly experience •\tDesigned and developed Restful style web services •\tCreated a Content Management System (CMS) •\tCreated custom HTML emails template for clients newsletters •\tDesigned custom graphics",
+      "highlights": [],
+      "endDate": "2018-04-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virtual University of Pakistan",
+      "area": "",
+      "studyType": "Master’s Degree",
+      "startDate": "2014-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2017-01-01"
+    },
+    {
+      "institution": "University of the Punjab, Lahore",
+      "area": "",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2012-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2014-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "logo": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "logo": "https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "logo": "https://img.icons8.com/?size=100&id=52wKEsyyo49O&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "logo": "https://img.icons8.com/?size=100&id=40253&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "logo": "https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "logo": "https://img.icons8.com/?size=100&id=fAMVO_fuoOuC&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "logo": "https://img.icons8.com/?size=100&id=84710&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Vue.js",
+      "logo": "https://img.icons8.com/?size=100&id=BUnExfsRs3CW&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "logo": "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CodeIgniter",
+      "logo": "https://img.icons8.com/?size=100&id=YIjlZlyqtVvH&format=png&color=FA5252",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "logo": "https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "logo": "https://img.icons8.com/?size=100&id=13664&format=png&color=000000",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "services": [
+    {
+      "name": "UI UX Design",
+      "image": "ui-ux-design.svg"
+    },
+    {
+      "name": "Mobile App",
+      "image": "mobile-app.svg"
+    },
+    {
+      "name": "Product Design",
+      "image": "product-design.svg"
+    },
+    {
+      "name": "Branding",
+      "image": "branding.svg"
+    },
+    {
+      "name": "Photography",
+      "image": "photography.svg"
+    },
+    {
+      "name": "Motion Design",
+      "image": "motion-design.svg"
+    },
+    {
+      "name": "Web Development",
+      "image": "web-development.svg"
+    },
+    {
+      "name": "Visualization",
+      "image": "visualization.svg"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Urdu",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "Punjabi",
+      "fluency": "Full professional proficiency"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "The Academic Papers UK",
+      "startDate": "2019-06-01",
+      "summary": "",
+      "image_thumbnail": "theacademicpapers-thumbnail.jpg",
+      "image_full": "theacademicpapers-full.jpg",
+      "url": "https://www.theacademicpapers.co.uk/",
+      "endDate": "2019-08-01"
+    },
+    {
+      "id": 2,
+      "name": "Care Drop",
+      "startDate": "2019-06-01",
+      "summary": "",
+      "image_thumbnail": "caredrop-thumbnail.jpg",
+      "image_full": "caredrop-full.jpg",
+      "url": "https://caredropdev.wpengine.com/",
+      "endDate": "2019-08-01"
+    },
+    {
+      "id": 3,
+      "name": "Oaks Property Management",
+      "startDate": "2019-06-01",
+      "summary": "",
+      "image_thumbnail": "oaksproperty-thumbnail.jpg",
+      "image_full": "oaksproperty-full.jpg",
+      "url": "https://oaksproperty.co.nz/",
+      "endDate": "2019-08-01"
+    },
+    {
+      "id": 4,
+      "name": "Pixpine",
+      "startDate": "2019-06-01",
+      "summary": "",
+      "image_thumbnail": "pixpine-thumbnail.jpg",
+      "image_full": "pixpine-full.jpg",
+      "url": "https://www.pixpine.com",
+      "endDate": "2019-08-01"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "They all start with small beginning",
+      "content": "They all start with small beginning",
+      "date": "2016-11-25 17:39:15",
+      "permalink": "https://www.umarwaqas.com/they-all-start-with-small-beginning/",
+      "seo_description": "They all start with small beginning",
+      "seo_keywords": "",
+      "seo_title": "They all start with small beginning",
+      "_wp_old_date": "2016-11-25|2023-12-20",
+      "categories": ["Programmer","Web Developer","Website"],
+      "tags": "Programmer,Software Developer,Website",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/11/they_all_start_with_small_beginning-2.jpg",
+      "images_caption": "they all start with small beginning",
+      "Images_description": "they all start with small beginning",
+      "images_alt_text": "they all start with small beginning",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "they-all-start-with-small-beginning",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 2,
+      "title": "Web Developer in Lahore",
+      "content": "Web Developer is website builder. He develops many type of websites like business website, commerce website and other website. Many web developers are available in Lahore, Pakistan.",
+      "date": "2016-11-25 17:39:15",
+      "permalink": "https://www.umarwaqas.com/web-developer-in-lahore/",
+      "seo_description": "Web Developer in Lahore",
+      "seo_keywords": "",
+      "seo_title": "Web Developer in Lahore",
+      "_wp_old_date": "2016-11-25|2023-12-20",
+      "categories": ["Web Developer","Website"],
+      "tags": "Web Developer in Lahore,Web Development in Lahore,Website",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/11/web-developer-in-lahore-2.jpg",
+      "images_caption": "",
+      "Images_description": "Web Developer in Lahore",
+      "images_alt_text": "Web Developer in Lahore",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "web-developer-in-lahore",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 3,
+      "title": "I am programmer, I have no life",
+      "content": "I am programmer, I have no life.",
+      "date": "2016-10-31 17:39:15",
+      "permalink": "https://www.umarwaqas.com/i-am-programmer-i-have-no-life/",
+      "seo_description": "I am programmer i have no girl friend",
+      "seo_keywords": "",
+      "seo_title": "I am programmer i have no girl friend",
+      "_wp_old_date": "2016-10-31|2023-12-20",
+      "categories": ["Programmer"],
+      "tags": "Programmer",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/10/i-am-programmer-i-have-no-life.jpg",
+      "images_caption": "",
+      "Images_description": "",
+      "images_alt_text": "",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "i-am-programmer-i-have-no-life",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 4,
+      "title": "Programmer's life",
+      "content": "Programmer's life",
+      "date": "2016-10-31 17:39:15",
+      "permalink": "https://www.umarwaqas.com/programmers-life/",
+      "seo_description": "Programmer's life",
+      "seo_keywords": "",
+      "seo_title": "Programmer's life",
+      "_thumbnail_id": 2482,
+      "_wp_old_date": "2016-10-31|2023-12-20",
+      "categories": ["Programmer"],
+      "tags": "Programmer",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/10/Programmer’s-life.jpg",
+      "images_caption": "Programmer’s life",
+      "Images_description": "Programmer’s life",
+      "images_alt_text": "Programmer’s life",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "programmers-life",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 5,
+      "title": "Sleeping Positions",
+      "content": "Sleeping positions programmer",
+      "date": "2016-10-31 13:01:30",
+      "permalink": "https://www.umarwaqas.com/sleeping-positions-programmer/",
+      "seo_description": "sleeping positions programmer",
+      "seo_keywords": "",
+      "seo_title": "sleeping positions programmer",
+      "_wp_old_date": "2016-10-31",
+      "categories": ["Programmer"],
+      "tags": "Programmer",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/10/Sleeping-Positions.jpg",
+      "images_caption": "Sleeping Positions",
+      "Images_description": "Sleeping Positions",
+      "images_alt_text": "Sleeping Positions",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "sleeping-positions-programmer",
+      "post_modified_date": "2023-12-20 13:01:30"
+    },
+    {
+      "id": 6,
+      "title": "I will not fix your computer",
+      "content": "I am programmer. I write code. I will not fix your computer",
+      "date": "2016-10-31 17:39:15",
+      "permalink": "https://www.umarwaqas.com/i-will-not-fix-your-computer/",
+      "seo_description": "I am programmer. I write code. I will not fix your computer.",
+      "seo_keywords": "",
+      "seo_title": "I am programmer. I write code. I will not fix your computer.",
+      "_wp_old_date": "2016-10-31|2023-12-20",
+      "categories": ["Programmer"],
+      "tags": "Programmer",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/10/I-will-not-fix-your-computer.jpg",
+      "images_caption": "I will not fix your computer",
+      "Images_description": "I will not fix your computer",
+      "images_alt_text": "I will not fix your computer",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "i-will-not-fix-your-computer",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 7,
+      "title": "Web Designing",
+      "content": "<p style=\"text-align: justify;\"><strong>Website design</strong> means planning, creation and updating of websites with the purpose of presenting the content on electronic web pages that determine the layout, colors, text styles, graphics, images, structure, and use of interactive features that the end-users can access through the internet with the help of a web browser.</p>\n<a href=\"http://www.umarwaqas.com/web-designing-in-lahore/\">Web Designing in Lahore</a>",
+      "date": "2016-11-26 17:39:15",
+      "permalink": "https://www.umarwaqas.com/web-designing-in-lahore/",
+      "seo_description": "Web Design Lahore Pakistan, Web Developer in Lahore Pakistan, Web Development in Lahore, Web Designing in Lahore, Web Designer Lahore, Web solutions Lahore.",
+      "seo_keywords": "Web Design, Web Developer, Development",
+      "seo_title": "Web Design Lahore Pakistan | Web Developer in Lahore",
+      "_wp_old_date": "2016-11-26|2023-12-20",
+      "categories": ["Website"],
+      "tags": "Web Designing in Lahore,Website",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/11/Web-Designing-in-Lahore.jpg",
+      "images_caption": "Web Designing in Lahore",
+      "Images_description": "Web Designing in Lahore",
+      "images_alt_text": "Web Designing in Lahore",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "web-designing-in-lahore",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 8,
+      "title": "Web Development",
+      "content": "<p style=\"text-align: justify;\"><strong>Web development</strong> generally refers to the tasks related with developing websites for hosting via Internet. The Web development procedure contains Web design, Web content development, client-side/server-side scripting and other tasks. Web development is also called website development.</p>\n<p style=\"text-align: justify;\">Web development is the programming that enables website functionality. It mainly deals with the non-design aspect of building websites, which includes coding and writing markup.</p>\n<p style=\"text-align: justify;\">Web development ranges from creating plain text pages to complex Web-based applications, social network applications and electronic business applications.</p>\n<p style=\"text-align: justify;\">The Web development hierarchy is as follows:</p>\n<p style=\"text-align: justify;\">Client-side coding Server-side coding Database technology</p>\n<a href=\"http://www.umarwaqas.com/web-development-in-lahore/\">Web Development in Lahore</a>",
+      "date": "2016-11-26 17:39:15",
+      "permalink": "https://www.umarwaqas.com/web-development-in-lahore/",
+      "seo_description": "Web development in Lahore generally refers to the tasks related with developing websites for hosting via Internet.",
+      "seo_keywords": "",
+      "seo_title": "Web Development in Lahore",
+      "_wp_old_date": "2016-11-26|2023-12-20",
+      "categories": ["Web Developer","Website"],
+      "tags": "Web Developer in Lahore,Web Development in Lahore,Website",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/11/Web-Development-in-Lahore.jpg",
+      "images_caption": "Web Development in Lahore",
+      "Images_description": "Web Development in Lahore",
+      "images_alt_text": "Web Development in Lahore",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "web-development-in-lahore",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 9,
+      "title": "Software Developer",
+      "content": "<p style=\"text-align: justify;\">A <strong>software developer</strong> is concerned about the behavior of the software development process, including research, design, programming and testing of computer software.</p>\n<p style=\"text-align: justify;\">According to the developer Eric Sink, the difference between the system design, software development and software is definitely more. And in today's market you can find an exception among programmers and developers who implement it as wrong and design class structure or leadership. However, most developers have systems architects, who design multi-leveled architecture or a large part of the interactive software system.</p>\n<p style=\"text-align: justify;\">In a large company, he may have employees who are the primary responsibility of only one of the earlier phases. In a small development environment, some people or even one person can handle the entire process.</p>",
+      "date": "2016-11-27 13:01:30",
+      "permalink": "https://www.umarwaqas.com/software-developer-in-lahore/",
+      "seo_description": "Software Developer in Lahore",
+      "seo_keywords": "",
+      "seo_title": "Software Developer in Lahore",
+      "_wp_old_date": "2016-11-27",
+      "categories": ["Programmer","Software Developer"],
+      "tags": "Programmer,Software Developer,Software Developer in Lahore",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/11/Software-Developer-in-Lahore.png",
+      "images_caption": "Software Developer in Lahore|they all start with small beginning",
+      "Images_description": "Software Developer in Lahore|they all start with small beginning",
+      "images_alt_text": "Software Developer in Lahore|they all start with small beginning",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "software-developer-in-lahore",
+      "post_modified_date": "2023-12-20 13:01:30"
+    },
+    {
+      "id": 10,
+      "title": "World’s Youngest Microsoft Certified Professional Dies",
+      "content": "These words are of world most talented Pakistani student and computer prodigy <strong>Arfa Abdul Karim Randhawa</strong> who in 2004 at the age of nine, become the world youngest Microsoft Certified professional and she kept this world title until 2008. But this great cute and most talented girl leave us in just 16 and she died on 14 January 2012.",
+      "date": "2016-12-06 13:01:30",
+      "permalink": "https://www.umarwaqas.com/worlds-youngest-microsoft-certified-professional-dies/",
+      "seo_description": " These words are of world most talented Pakistani student and computer prodigy Arfa Abdul Karim Randhawa who in 2004 at the age of nine.",
+      "seo_keywords": "",
+      "seo_title": "World’s Youngest Microsoft Certified Professional Dies at 16",
+      "_wp_old_date": "2016-12-06",
+      "categories": ["Programmer"],
+      "tags": "Computer,Programmer",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/12/Worlds-Youngest-Microsoft-Certified-Professional-Dies.jpg",
+      "images_caption": "World’s Youngest Microsoft Certified Professional Dies",
+      "Images_description": "World’s Youngest Microsoft Certified Professional Dies",
+      "images_alt_text": "World’s Youngest Microsoft Certified Professional Dies",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "worlds-youngest-microsoft-certified-professional-dies",
+      "post_modified_date": "2023-12-20 13:01:30"
+    },
+    {
+      "id": 11,
+      "title": "See Who will be next Bill Gates in Computer programming",
+      "content": "<p style=\"text-align: justify;\">7 year old Hamza born in London and trained by his father Asim Shazad who is IT programmer in USA. His aim is that he want to be like Bill gates in future. Now a days he is a computer programmer but in future his aim is to become a software programmer.</p>",
+      "date": "2016-12-05 17:39:15",
+      "permalink": "https://www.umarwaqas.com/see-who-will-be-next-bill-gates-in-computer-programming/",
+      "seo_description": "See Who will be next Bill Gates in Computer programming",
+      "seo_keywords": "",
+      "seo_title": "See Who will be next Bill Gates in Computer programming",
+      "_wp_old_date": "2016-12-05|2023-12-20",
+      "categories": ["Programmer"],
+      "tags": "Computer,Programmer,Software Developer in Lahore,Web Developer in Lahore,Web Development in Lahore",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2016/12/See-Who-will-be-next-Bill-Gates-in-Computer-programming-1.jpg",
+      "images_caption": "See Who will be next Bill Gates in Computer programming",
+      "Images_description": "",
+      "images_alt_text": "",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "see-who-will-be-next-bill-gates-in-computer-programming",
+      "post_modified_date": "2024-01-14 17:39:15"
+    },
+    {
+      "id": 12,
+      "title": "SEO - What is SEO?",
+      "content": "<h1>SEO - What is SEO?</h1>\n\n<hr />\n\nSEO stands for <b>S</b>earch <b>E</b>ngine <b>O</b>ptimization. SEO is all about optimizing a website for search engines. SEO is a technique for:\n<ul class=\"list\">\n \t<li>designing and developing a website to rank well in search engine results.</li>\n \t<li>improving the volume and quality of traffic to a website from search engines.</li>\n \t<li>marketing by understanding how search algorithms work, and what human visitors might search.</li>\n</ul>\nSEO is a subset of search engine marketing. SEO is also referred as SEO copyrighting, because most of the techniques that are used to promote sites in search engines, deal with text.\n\nIf you plan to do some basic SEO, it is essential that you understand how search engines work.\n<h2>How Search Engine Works?</h2>\nSearch engines perform several activities in order to deliver search results.\n<ul class=\"list\">\n \t<li><b>Crawling</b> - Process of fetching all the web pages linked to a website. This task is performed by a software, called a <b>crawler</b> or a <b>spider</b> (or Googlebot, in case of Google).</li>\n \t<li><b>Indexing</b> - Process of creating index for all the fetched web pages and keeping them into a giant database from where it can later be retrieved. Essentially, the process of indexing is identifying the words and expressions that best describe the page and assigning the page to particular keywords.</li>\n \t<li><b>Processing</b> - When a search request comes, the search engine processes it, i.e. it compares the search string in the search request with the indexed pages in the database.</li>\n \t<li><b>Calculating Relevancy</b> - It is likely that more than one page contains the search string, so the search engine starts calculating the relevancy of each of the pages in its index to the search string.</li>\n \t<li><b>Retrieving Results</b> - The last step in search engine activities is retrieving the best matched results. Basically, it is nothing more than simply displaying them in the browser.</li>\n</ul>\nSearch engines such as Google and Yahoo! often update their relevancy algorithm dozens of times per month. When you see changes in your rankings it is due to an algorithmic shift or something else outside of your control.\n\nAlthough the basic principle of operation of all search engines is the same, the minor differences between their relevancy algorithms lead to major changes in results relevancy.\n<h2>What is SEO Copywriting?</h2>\nSEO Copywriting is the technique of writing viewable text on a web page in such a way that it reads well for the surfer, and also targets specific search terms. Its purpose is to rank highly in the search engines for the targeted search terms.\n\nAlong with viewable text, SEO copywriting usually optimizes other on-page elements for the targeted search terms. These include the Title, Description, Keywords tags, headings, and alternative text.\n\nThe idea behind SEO copywriting is that search engines want genuine content pages and not additional pages often called \"doorway pages\" that are created for the sole purpose of achieving high rankings.\n<h2>What is Search Engine Rank?</h2>\nWhen you search any keyword using a search engine, it displays thousands of results found in its database. A page ranking is measured by the position of web pages displayed in the search engine results. If a search engine is putting your web page on the first position, then your web page rank will be number 1 and it will be assumed as the page with the highest rank.\n\nSEO is the process of designing and developing a website to attain a high rank in search engine results.\n<h2>What is On-Page and Off-page SEO?</h2>\nConceptually, there are two ways of optimization:\n<ul class=\"list\">\n \t<li><b>On-Page SEO</b> - It includes providing good content, good keywords selection, putting keywords on correct places, giving appropriate title to every page, etc.</li>\n \t<li><b>Off-Page SEO</b> - It includes link building, increasing link popularity by submitting open directories, search engines, link exchange, etc.</li>\n</ul>",
+      "date": "2017-09-03 17:39:14",
+      "permalink": "https://www.umarwaqas.com/seo-what-is-seo/",
+      "seo_description": "",
+      "seo_keywords": "",
+      "seo_title": "",
+      "_wp_old_date": "2017-09-03|2023-12-20",
+      "categories": ["SEO"],
+      "tags": "SEO",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2017/09/What-is-SEO.jpg",
+      "images_caption": "",
+      "Images_description": "",
+      "images_alt_text": "",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "seo-what-is-seo",
+      "post_modified_date": "2024-01-14 17:39:14"
+    },
+    {
+      "id": 13,
+      "title": "Responsive Website Design",
+      "content": "Responsive Web design is the approach that suggests that design and development should respond to the user's behavior and environment based on screen size, platform and orientation. The practice consists of a mix of flexible grids and layouts, images and an intelligent use of CSS media queries.",
+      "date": "2017-09-13 17:39:14",
+      "permalink": "https://www.umarwaqas.com/responsive-website-design/",
+      "seo_description": "",
+      "seo_keywords": "",
+      "seo_title": "",
+      "_wp_old_date": "2017-09-13|2023-12-20",
+      "categories": ["Web Developer","Website","SEO"],
+      "tags": "Web Developer in Lahore,Web Development in Lahore,Website",
+      "image_url": "https://www.umarwaqas.com/wp-content/uploads/2017/09/Responsive-Website-Design.jpg",
+      "images_caption": "Responsive Website Design",
+      "Images_description": "Responsive Website Design",
+      "images_alt_text": "Responsive Website Design",
+      "status": "publish",
+      "author_id": 1,
+      "author_username": "umarwaqas",
+      "author_email": "m.umarwaqas@yahoo.com",
+      "slug": "responsive-website-design",
+      "post_modified_date": "2024-01-14 17:39:14"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Umar Waqas",
+      "username": "umarwaqas",
+      "email": "m.umarwaqas@yahoo.com"
+    },
+    {
+      "id": 2,
+      "name": "Faizan",
+      "username": "faizan",
+      "email": "faizan@yahoo.com"
+    }
+  ]
+}
